@@ -1,0 +1,29 @@
+# Local .terraform directories (modules, providers)
+.terraform/
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Crash log
+crash.log
+
+# Terraform variable override files
+*.tfvars
+*.tfvars.json
+
+# Terraform plan files
+*.tfplan
+
+# Backup files
+*.backup
+
+# Sensitive data
+*.pem
+*.key
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
